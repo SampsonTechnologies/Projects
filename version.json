@@ -1,1 +1,4 @@
-{"version": "1.0.8"}
+v1.0.9
+- Fixed mobile header overflow — buttons no longer cut off on small screens
+- Status pills hidden on mobile, replaced with compact status bar below header
+- Header wraps properly on all screen sizes
