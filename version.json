@@ -1,1 +1,1 @@
-{"version": "1.1.6", "notes": "Fixed week-jumping bugs, added Gemini AI import, redesigned backup panel"}
+{"version": "1.1.7", "notes": "Fixed week-jumping bugs on delete/edit, added Gemini AI shift import with voice dictation, redesigned backup panel with collapsible sections"}
