@@ -1,1 +1,1 @@
-{"version": "1.1.7", "notes": "Fixed week-jumping bugs on delete/edit, added Gemini AI shift import with voice dictation, redesigned backup panel with collapsible sections"}
+{"version": "1.1.8", "notes": "Fixed mobile status bar initialization error"}
