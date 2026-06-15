@@ -1,1 +1,4 @@
-{"version": "1.2.1", "notes": "Added typical shift time hints per location + fixed pay period jumping after edit"}
+v1.2.2
+- Added editable typical start time field for each location in Settings
+- Custom times override built-in defaults and persist via autosave + JSON
+- Shift hint when adding entries now reflects your custom per-location times
