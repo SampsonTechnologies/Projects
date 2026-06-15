@@ -1,4 +1,2 @@
-v1.2.2
-- Added editable typical start time field for each location in Settings
-- Custom times override built-in defaults and persist via autosave + JSON
-- Shift hint when adding entries now reflects your custom per-location times
+v1.2.6
+- Deficit pill now reads "Total deficit: X hrs · requires Y OT hrs" to clarify it's cumulative
