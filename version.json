@@ -1,2 +1,1 @@
-v1.2.6
-- Deficit pill now reads "Total deficit: X hrs · requires Y OT hrs" to clarify it's cumulative
+{"version": "1.3.0", "notes": "Added inline cell editing on all rows + always-visible quick-add row for fast entry"}
