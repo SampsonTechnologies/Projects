@@ -1,3 +1,1 @@
-v1.3.5
-- Fixed ✕ delete button silently failing on older entries (numeric vs string ID mismatch)
-- All entry IDs now consistent string type with type-safe comparisons
+{"version": "1.3.6", "notes": "Quick-add row now auto-saves a valid pending entry when you navigate away"}
