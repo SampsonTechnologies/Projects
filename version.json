@@ -1,4 +1,1 @@
-v1.3.9
-- Added + PTO button next to + Add Entry
-- PTO entries show as clean green-tinted rows with PTO badge
-- PTO hours count toward 40hr weekly target — prevents deficit from inflating
+{"version": "1.3.9", "notes": "Added PTO entry — logs PTO hours that count toward 40hr target to prevent deficit inflation"}
