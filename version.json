@@ -1,1 +1,1 @@
-{"version": "1.3.9", "notes": "Added PTO entry — logs PTO hours that count toward 40hr target to prevent deficit inflation"}
+{"version": "1.4.0", "notes": "Fixed Other location defaulting to BAE Rockville; location dropdown no longer pre-selects on new entry"}
