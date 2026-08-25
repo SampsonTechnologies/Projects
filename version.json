@@ -1,1 +1,1 @@
-{"version": "1.4.0", "notes": "Fixed Other location defaulting to BAE Rockville; location dropdown no longer pre-selects on new entry"}
+{"version": "1.4.1", "notes": "Fixed custom Other location displaying as BAE after save"}
